@@ -21,7 +21,7 @@ Your team will have two minutes to present. Create presentation with two or thre
 
 (Template follows. You may delete this line and all above it. Please edit the following template to create your report.)
 
-# Project Title: title here (10 words maximum)
+# Project Title: Photo Editor
 ### Problem Statement
 Describe your problem, and why it is interesting. 
 
